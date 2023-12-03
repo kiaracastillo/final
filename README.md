@@ -1,4 +1,4 @@
-# N135 Final Project
+# N315 Final Project
 -For this final project, I will be using Firebase's authentication and adding it to my project. My final project will be an e-commerce site. I must have a shopping cart, log in and create an account page, and show at least 10 coffee machines.
 - My site resemble this site: https://www.keurig.com/c/coffeemakers101?cm_sp=bo+cybermonday21-_-promo+hero+banner-_-shop+coffee+makers.
 - Details:
