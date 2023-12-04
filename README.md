@@ -1,12 +1,12 @@
 # N315 Final Project
--For this final project, I will be using Firebase's authentication and adding it to my project. My final project will be an e-commerce site. I must have a shopping cart, log in and create an account page, and show at least 10 coffee machines.
-- My site resemble this site: https://www.keurig.com/c/coffeemakers101?cm_sp=bo+cybermonday21-_-promo+hero+banner-_-shop+coffee+makers.
+- For this final project, it will be an e-commerce site. My site will resemble this site: https://www.keurig.com/c/coffeemakers101?cm_sp=bo+cybermonday21-_-promo+hero+banner-_-shop+coffee+makers.
+
 - Details:
-- All of this must look like the site.
-- I need to show a cart icon in the top right-hand corner that displays the count of how many coffee makers I have purchased. When I click on my cart page, it should show all the coffee makers I have clicked the "buy now" button on.
-- I ensured that each product displayed:
-- Product image
-- Product name
-- Product price
-- Buy now button
-- I decided to keep the site appearance consistent and loaded all the products from a JSON file onto the page for easier cart management. To enhance user experience, I stored any additional data in JSON, which was held in memory and not saved upon page refresh. Alternatively, local storage in the browser could be used.
+- All of this should resemble the site.
+-I made sure that each product displayed:
+-Product image
+-Product name
+-Product price
+-"Buy Now" button
+- Every time the "Buy Now" button is clicked, it triggers an alert displaying "item added to cart," but it is also added to the shopping cart page, and the shopping cart icon increments the number based on the number of products added.
+- I loaded all the products from a JSON file onto the page to facilitate cart management. To enhance the user experience, I stored any additional data in JSON, which was kept in memory and not saved upon refreshing the page. Alternatively, local storage in the browser could be used.
