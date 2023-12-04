@@ -14,5 +14,5 @@
 # Url: https://in-info-web4.informatics.iupui.edu/~kicastil/n315-final/
 # URL: https://in-info-web4.informatics.iupui.edu/~kicastil/n315-final/#home
 
-- Note: Sometimes, to load the products, you have to click on the logo.
+- Note: Sometimes, to load the products, you have to click on the logo again.
 - I had trouble getting the project to work on Firebase; that's why I didn't include the Firebase URL.
