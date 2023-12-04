@@ -1,5 +1,5 @@
 # N315 Final Project
-- For this final project, it will be an e-commerce site. My site will resemble this site: https://www.keurig.com/c/coffeemakers101?cm_sp=bo+cybermonday21-_-promo+hero+banner-_-shop+coffee+makers.
+- This final project, is an e-commerce site. My site will resemble this site: https://www.keurig.com/c/coffeemakers101?cm_sp=bo+cybermonday21-_-promo+hero+banner-_-shop+coffee+makers.
 
 - Details:
 - All of this should resemble the site.
@@ -15,4 +15,5 @@
 # URL: https://in-info-web4.informatics.iupui.edu/~kicastil/n315-final/#home
 
 - Note: Sometimes, to load the products, you have to click on the logo again.
+- The ads displayed below the navigation did not appear after uploading to Web 4, but they are included in the project.
 - I had trouble getting the project to work on Firebase; that's why I didn't include the Firebase URL.
