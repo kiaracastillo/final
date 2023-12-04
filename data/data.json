@@ -1,0 +1,196 @@
+{ "Products": [ 
+    {
+         "productName": "Keurig® K-Elite® Single Serve Coffee Maker", 
+         "productImage": "coffee1.png", 
+         "productShortDesc": "freeship.png", 
+         "productLongDesc": "", 
+"productPrice": "$49.99" 
+}, 
+
+{
+    "productName": "Keurig® K-Select® Coffee Maker", 
+    "productImage": "coffee2.png", 
+    "productShortDesc": "freeship.png", 
+    "productLongDesc": "", 
+"productPrice": "$69.99" 
+}, 
+
+{
+    "productName": "K-Mini® Single Serve Coffee Maker", 
+    "productImage": "coffee3.png", 
+    "productShortDesc": "freeship.png", 
+    "productLongDesc": "", 
+"productPrice": "$71.99" 
+},
+
+{
+    "productName": "K-Café® SMART Single Serve Coffee Maker", 
+    "productImage": "coffee4.png", 
+    "productShortDesc": "freeship.png", 
+    "productLongDesc": "", 
+"productPrice": "$124.99" 
+}, 
+
+{
+    "productName": "K-Slim® Simple Serve Coffee Maker", 
+    "productImage": "coffee5.png", 
+    "productShortDesc": "freeship.png", 
+    "productLongDesc": "", 
+"productPrice": "$79.99" 
+}, 
+
+{
+    "productName": "K-Duo® Single Serve & Carafe Coffee Maker", 
+    "productImage": "coffee6.png", 
+    "productShortDesc": "freeship.png", 
+    "productLongDesc": "", 
+"productPrice": "$94.99" 
+}, 
+
+{
+    "productName": "K-Duo Plus® Single Serve & Carafe Coffee Maker", 
+    "productImage": "coffee7.png", 
+    "productShortDesc": "freeship.png", 
+    "productLongDesc": "", 
+"productPrice": "$114.99" 
+}, 
+
+{
+    "productName": "K-Iced® Single Serve Coffee Maker", 
+    "productImage": "coffee8.png", 
+    "productShortDesc": "freeship.png", 
+    "productLongDesc": "", 
+"productPrice": "$49.99" 
+}, 
+
+{
+    "productName": "K-Dou® Special Edition Single Serve & Carafe Coffee Maker", 
+    "productImage": "coffee9.png", 
+    "productShortDesc": "freeship.png", 
+    "productLongDesc": "", 
+"productPrice": "$99.99" 
+}, 
+
+{
+    "productName": "Keurig® K-Cafe® Barista bar Single Serve Coffee Maker and Frother", 
+    "productImage": "coffee10.png", 
+    "productShortDesc": "freeship.png", 
+    "productLongDesc": "", 
+"productPrice": "$69.99" 
+}, 
+
+{
+    "productName": "Keuring® K-Classic® Coffee Maker", 
+    "productImage": "coffee11.png", 
+    "productShortDesc": "freeship.png", 
+    "productLongDesc": "", 
+"productPrice": "$74.99" 
+}, 
+
+{
+    "productName": "Keurig® K-Supreme® Single Serve Coffee Maker", 
+    "productImage": "coffee12.png", 
+    "productShortDesc": "freeship.png", 
+    "productLongDesc": "", 
+"productPrice": "$84.99" 
+}, 
+
+{
+    "productName": "K-Supreme Plus® Single Serve Coffee Maker", 
+    "productImage": "coffee13.png", 
+    "productShortDesc": "freeship.png", 
+    "productLongDesc": "", 
+"productPrice": "$114.99" 
+}, 
+
+{
+    "productName": "K-Café® Special Edition Single Serve Coffee Latte & Cappuccino Maker", 
+    "productImage": "coffee14.png", 
+    "productShortDesc": "freeship.png", 
+    "productLongDesc": "", 
+"productPrice": "$99.99" 
+}, 
+
+{
+    "productName": "K-Supreme® SMART Single Serve Coffee Maker", 
+    "productImage": "coffee15.png", 
+    "productShortDesc": "freeship.png", 
+    "productLongDesc": "", 
+"productPrice": "$89.99" 
+}, 
+
+{
+    "productName": "K-Café® Single Serve Coffee Latte & Cappuccino Maker", 
+    "productImage": "coffee16.png", 
+    "productShortDesc": "freeship.png", 
+    "productLongDesc": "", 
+"productPrice": "$94.99" 
+}, 
+
+{
+    "productName": "K-Supreme Plus® Single Serve Coffee Maker", 
+    "productImage": "coffee17.png", 
+    "productShortDesc": "freeship.png", 
+    "productLongDesc": "", 
+"productPrice": "$109.99" 
+}, 
+
+{
+    "productName": "K-Mini Plus® Single Serve Coffee Maker", 
+    "productImage": "coffee18.png", 
+    "productShortDesc": "freeship.png", 
+    "productLongDesc": "", 
+"productPrice": "$109.99" 
+}, 
+
+{
+    "productName": "Keurig® K-Compact® Coffee Maker - Gray", 
+    "productImage": "coffee19.png", 
+    "productShortDesc": "freeship.png", 
+    "productLongDesc": "", 
+"productPrice": "$50.00" 
+}, 
+
+{
+    "productName": "K-eurig® K-Compact® Coffee Maker - White", 
+    "productImage": "coffee20.png", 
+    "productShortDesc": "freeship.png", 
+    "productLongDesc": "", 
+"productPrice": "$50.00" 
+}, 
+
+{
+    "productName": "K-Express® Single Serve Coffee Maker", 
+    "productImage": "coffee21.png", 
+    "productShortDesc": "freeship.png", 
+    "productLongDesc": "", 
+"productPrice": "-" 
+}, 
+
+{
+    "productName": "K-Slim + ICED® Single Serve Coffee Maker", 
+    "productImage": "coffee22.png", 
+    "productShortDesc": "freeship.png", 
+    "productLongDesc": "", 
+"productPrice": "64.99" 
+}, 
+
+{
+    "productName": "Keurig® K-Compact® Coffee Maker", 
+    "productImage": "coffee23.png", 
+    "productShortDesc": "freeship.png", 
+    "productLongDesc": "", 
+"productPrice": "$99.99" 
+}, 
+
+{
+    "productName": "Keurig® K155 OfficePRO® Primier Brewing System", 
+    "productImage": "coffee24.png", 
+    "productShortDesc": "freeship.png", 
+    "productLongDesc": "", 
+"productPrice": "$294.95" 
+}
+
+], 
+"Cart": [] 
+}
